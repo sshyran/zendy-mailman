@@ -12,8 +12,6 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 ```
 
-Zendy Mailman makes sure all the email messages sent by your Wordpress site are delivered successfully by using SMTP rather than the built-in Wordpress PHP mailer.
-
 == Description ==
 
 Zendy Mailman: the friendly email delivery system for Wordpress
