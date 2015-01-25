@@ -2,11 +2,14 @@
 /*
 Plugin Name: Zendy Mailman
 <<<<<<< HEAD
+<<<<<<< HEAD
 Version: 1.0.14
 Plugin URI: https://kauai.zendy.net/wordpress/plugins/zendy-mailman/
 Author: Zendy Web Studio
 Author URI: https://kauai.zendy.net
 =======
+=======
+>>>>>>> FETCH_HEAD
 Version: 1.0.13
 Plugin URI: https://hq.zendy.net/wordpress/plugins/mailman/
 Author: Zendy Labs
