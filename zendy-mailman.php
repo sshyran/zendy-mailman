@@ -1,22 +1,11 @@
 <?php
 /*
 Plugin Name: Zendy Mailman
-<<<<<<< HEAD
-<<<<<<< HEAD
 Version: 1.0.14
 Plugin URI: https://kauai.zendy.net/wordpress/plugins/zendy-mailman/
 Author: Zendy Web Studio
 Author URI: https://kauai.zendy.net
-=======
-=======
->>>>>>> FETCH_HEAD
-Version: 1.0.13
-Plugin URI: https://hq.zendy.net/wordpress/plugins/mailman/
-Author: Zendy Labs
-Author URI: https://hq.zendy.net/
->>>>>>> FETCH_HEAD
 Description: A simple SMTP mailer for Wordpress
-TODO: internationalize
 */
 
 // Add Zendy Mailman to Wordpress Settings

@@ -3,15 +3,7 @@ Contributors: ZendyLabs
 Tags: email, smtp
 Requires at least: 3.9.1
 Tested up to: 4.1
-<<<<<<< HEAD
-<<<<<<< HEAD
 Stable tag: 1.0.14
-=======
-Stable tag: 1.0.13
->>>>>>> FETCH_HEAD
-=======
-Stable tag: 1.0.13
->>>>>>> FETCH_HEAD
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -54,15 +46,9 @@ On shared hosting servers (most Wordpress sites are on shared hosting servers) t
 
 == Changelog ==
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 = 1.0.14 =
 * Meta: Updated plugin links to new zendy website
 
-=======
->>>>>>> FETCH_HEAD
-=======
->>>>>>> FETCH_HEAD
 = 1.0.13 =
 * Meta: Added section comments to style.css
 
